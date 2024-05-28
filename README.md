@@ -1,6 +1,6 @@
-**Audiobook Analysis:
+**Audiobook Analysis**
 
-Introduction** 
+**Introduction** 
 
 This case study examines the performance and customer satisfaction trends of an audiobook platform 
 spanning from February 2017 to February 2018. The primary focus is on the growth in user engagement
